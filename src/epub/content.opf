@@ -37,36 +37,39 @@
 		<meta property="term" refines="#subject-2">sh85047114</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85001072</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">7</meta>
+		<dc:description id="description">Tarzan embarks on a perilous journey through war-torn Africa to to exact revenge against those who wronged him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Tarzan the Untamed&lt;/i&gt; continues the adventures of Tarzan, the orphaned child raised by apes in the African jungle. It is the seventh book in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series and was first published as a serial in the magazine &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; from February 12 to March 19, 1921. The novel was later compiled and published as a complete book in 1921 by A.C. McClurg &amp;amp; &lt;abbr class="eoc"&gt;Co.&lt;/abbr&gt;&lt;/p&gt;
+			&lt;p&gt;The story is set during World War I and features Tarzan’s involvement in the conflict, as well as his encounters with various dangerous animals and adversaries as he navigates the challenges of war-torn Africa. After his estate in British East Africa is attacked by German soldiers, Tarzan embarks on a relentless quest to exact revenge upon those responsible. During his journey, Tarzan faces not only the German soldiers but also encounters other dangers such as wild animals, hostile tribes, and treacherous landscapes. He uses his exceptional strength, agility, and survival skills to overcome these obstacles. During his journey, Tarzan encounters, and eventually teams up with, a British pilot and a beautiful German spy, and he unexpectedly finds himself becoming a protector and ally for them both.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1401</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/tarzanuntamed00burriala/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_the_Untamed</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-the-untamed</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
 		<meta property="file-as" refines="#author">Burroughs, Edgar Rice</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">J. Allen St. John</dc:contributor>
+		<meta property="file-as" refines="#artist">St. John, J. Allen</meta>
+		<meta property="se:name.person.full-name" refines="#artist">James Allen St. John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
