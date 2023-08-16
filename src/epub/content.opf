@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-the-untamed</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-16T17:30:20Z</dc:date>
+		<meta property="dcterms:modified">2023-08-16T17:30:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,14 +44,14 @@
 		<meta property="group-position" refines="#collection-1">7</meta>
 		<dc:description id="description">Tarzan embarks on a perilous journey through war-torn Africa to exact revenge against those who wronged him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Tarzan the Untamed&lt;/i&gt; continues the adventures of Tarzan, the orphaned child raised by apes in the African jungle. It is the seventh book in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series and was first published as a serial in the magazine &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; from February 12 to March 19, 1921. The novel was later compiled and published as a complete book in 1921 by A. C. McClurg &amp;amp; &lt;abbr class="eoc"&gt;Co.&lt;/abbr&gt;&lt;/p&gt;
-			&lt;p&gt;The story is set during World War I and features Tarzan’s involvement in the conflict, as well as his encounters with various dangerous animals and adversaries as he navigates the challenges of war-torn Africa. After his estate in British East Africa is attacked by German soldiers, Tarzan embarks on a relentless quest to exact revenge upon those responsible. During his journey, Tarzan faces not only the German soldiers but also encounters other dangers such as wild animals, hostile tribes, and treacherous landscapes. He uses his exceptional strength, agility, and survival skills to overcome these obstacles. During his journey, Tarzan encounters a British pilot and a beautiful German spy, and he unexpectedly finds himself becoming both a protector and ally.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Tarzan the Untamed&lt;/i&gt; continues the adventures of Tarzan, the orphaned child raised by apes in the African jungle. It is the seventh book in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series and was first published as a serial in the magazine &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; from February 12 to March 19, 1921. The novel was later compiled and published as a complete book in 1921 by A. C. McClurg &amp;amp; Co.&lt;/p&gt;
+			&lt;p&gt;After his estate in British East Africa is attacked by German soldiers during World War I, Tarzan embarks on a relentless quest to exact revenge upon those responsible. During his journey, Tarzan faces not only the German soldiers, but also other dangers such as wild animals, hostile tribes, and treacherous landscapes. He uses his exceptional strength, agility, and survival skills to overcome these them. He also Tarzan comes across a British pilot and a beautiful German spy, unexpectedly finding himself becoming both a protector and ally.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1401</dc:source>
 		<dc:source>https://archive.org/details/tarzanuntamed00burriala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">109435</meta>
+		<meta property="se:reading-ease.flesch">64.75</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_the_Untamed</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-the-untamed</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -76,6 +76,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
